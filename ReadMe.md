@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá chamo me João Santos, tenho 20 anos e vivo em Vagos, Portugal. <br>Sou um programador apaixonado pelo desenvolvimento de soluções digitais, com experiência na criação de aplicações de todos os tipos,<br>desde apps móveis até sites e sistemas de estatísticas para empresas. Domínio diversas linguagens de programação, como C#, Python, JavaScript, HTML, CSS, <br>e utilizo frameworks como Flutter e React. Além disso, utilizo ferramentas de design, como Canva e Figma, para apresentar projetos de forma visualmente atrativa e eficaz.<br>"A tecnologia é o meio, mas a criatividade é o que transforma ideias em soluções inovadoras."
+Olá chamo me João Santos, tenho 20 anos e vivo em Vagos, Portugal. <br>Sou um programador apaixonado pelo desenvolvimento de soluções digitais, com experiência na criação de aplicações de todos os tipos,<br>desde apps móveis até sites e sistemas de estatísticas para empresas. Domínio diversas linguagens de programação, como C#, Python, JavaScript, HTML, CSS, <br>e utilizo frameworks como NodeRed, Flutter e React. Além disso, utilizo ferramentas de design, como Canva e Figma, para apresentar projetos de forma visualmente atrativa e eficaz.<br>"A tecnologia é o meio, mas a criatividade é o que transforma ideias em soluções inovadoras."
 
 
 ## 🌐 Socials:
